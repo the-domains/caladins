@@ -1,7 +1,7 @@
 name: Caladins
 favicon: null
 layout_spectrum: 0.50016
-typography_spectrum: 0.52768
+typography_spectrum: 0.71715
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#feebc2'
     - '#f4a580'
   brandStrength: 0.5
-  lightness: 0.25
-  saturation: 0.75
-  rhythmicContrast: 0
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
