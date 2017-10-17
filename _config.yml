@@ -31,9 +31,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Real Estate
-    id: df083ab6-0bda-4db9-a532-97df4df7941f
-    type: content
   - name: Computers
     id: e55895f5-26ec-446d-a0a1-51f3f7497540
     type: content
