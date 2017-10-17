@@ -1,12 +1,12 @@
 ---
 inFeed: true
 description: >-
-  Caladin Computers is a fully owned subsidiary of the holding company
-  Caladin-ITS, LLC. Caladin-ITS, LLC is a conglomerate of businesses
-  specializing in management services.
-dateModified: '2017-10-17T15:38:37.766Z'
-datePublished: '2017-10-17T15:38:37.937Z'
-title: Caladin Computers
+  Caladin Data Management is a fully owned subsidiary of the holding company 
+  Caladin-ITS, LLC, a conglomerate of businesses specializing in management
+  services.
+dateModified: '2017-10-17T15:42:26.116Z'
+datePublished: '2017-10-17T15:42:26.806Z'
+title: Caladin Data Management
 author: []
 publisher: {}
 via: {}
@@ -18,15 +18,14 @@ url: caladin-computers/index.html
 _type: Article
 
 ---
-# Caladin Computers
+# Caladin Data Management
 
-Caladin Computers is a fully owned subsidiary of the holding company Caladin-ITS, LLC. Caladin-ITS, LLC is a conglomerate of businesses specializing in management services.
-
-All business in this subsidiary are currently suspended.
+Caladin Data Management is a fully owned subsidiary of the holding company   
+Caladin-ITS, LLC, a conglomerate of businesses specializing in management services.
 
 ---
 
-Caladin Computers various practices specialize in meeting the needs of the small businesses. We recognize that most small businesses today have some level of technology knowledge and that our role is to work with our customers to design solutions that make their businesses easier to run so they can spend more time generating revenue.
+Caladin Data Management's various practices specialize in filling the gap needs of businesses. We recognize that most businesses today have some level of technology knowledge and that our role is to work with our customers to design solutions that make their businesses easier to run so they can spend more time generating revenue.
 
 ## **Information Technology Practice**
 
