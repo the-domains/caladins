@@ -1,28 +1,49 @@
-name: Caladins
-favicon: null
-layout_spectrum: 0.50016
-typography_spectrum: 0.71715
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+typography_spectrum: 0.9789171047963312
+color:
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  brandStrength: 0.42115031287728777
+  lightness: 0.8474430923692254
+  saturation: 0.08541735393695976
+  rhythmicContrast: 0.12571813743727484
+github: true
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#ff811c'
-    - '#f29a36'
-    - '#feebc2'
-    - '#f4a580'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+layout_spectrum: 0.5974991458395292
+analytics:
+  google: null
+  facebook: null
+  twitter: '1963'
+author:
+  name: John B Stone
+  email: jstone63@hotmail.com
+logo: null
+name: Caladins
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Real Estate
+    id: df083ab6-0bda-4db9-a532-97df4df7941f
+    type: content
+  - name: Computers
+    id: e55895f5-26ec-446d-a0a1-51f3f7497540
+    type: content
+  - name: Books
+    id: b2ea8bfd-08ea-4a5b-8741-4dcbba50a674
+    type: content
+  - name: About Caladins
+    id: 715b6c63-8eff-4bb5-a25e-f255ff037b70
+    type: content
+favicon: null
+title: Caladins
+content: []
+description: 'Information on the Caladin ITS, LLC businesses'
 purpose: []
