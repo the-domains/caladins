@@ -71,4 +71,7 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: 'Information on the Caladin ITS, LLC businesses'
-purpose: []
+purpose:
+  - type: contact
+    url: 'tel:5414619397'
+    label: Call 5414619397
