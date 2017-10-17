@@ -24,7 +24,7 @@ author:
   name: John B Stone
   email: jstone63@hotmail.com
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b5ea9e6-b302-4ba5-9951-5d5ae2139035.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/23142774-b0d6-4ca8-b3b3-340cc49280cf.png
 name: Caladins
 cta:
   domain: null
@@ -63,7 +63,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
