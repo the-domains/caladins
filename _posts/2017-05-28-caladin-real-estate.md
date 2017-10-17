@@ -4,8 +4,8 @@ description: >-
   Caladin Real Estate is a fully owned subsidiary of the holding company
   Caladin-ITS, LLC. Caladin-ITS, LLC is a conglomerate of businesses
   specializing in management services.
-dateModified: '2017-10-17T15:38:37.766Z'
-datePublished: '2017-10-17T15:38:37.941Z'
+dateModified: '2017-10-17T15:47:23.873Z'
+datePublished: '2017-10-17T15:47:24.698Z'
 title: Caladin Real Estate
 author: []
 publisher: {}
