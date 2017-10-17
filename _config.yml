@@ -37,6 +37,9 @@ navigation:
   - name: Property
     id: df083ab6-0bda-4db9-a532-97df4df7941f
     type: content
+  - name: Books
+    id: b2ea8bfd-08ea-4a5b-8741-4dcbba50a674
+    type: content
 favicon: null
 title: CALADIN
 content:
