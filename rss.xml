@@ -1,16 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Caladins]]></title>
-        <description><![CDATA[Caladins]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[CALADIN]]></title>
+        <description><![CDATA[CALADIN]]></description>
+        <link>https://thegrid.ai/caladins/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 03:54:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 17 Oct 2017 15:38:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/caladins/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 17 Oct 2017 15:38:40 GMT</pubDate>
         <item>
-            <title><![CDATA[No title]]></title>
-            <link>undefinedab019149-f5fd-454a-9fd4-1c027913ba03/index.html</link>
-            <guid isPermaLink="false">ab019149-f5fd-454a-9fd4-1c027913ba03</guid>
-            <pubDate>Mon, 22 Feb 2016 03:54:18 GMT</pubDate>
+            <title><![CDATA[Caladin Computers]]></title>
+            <description><![CDATA[<h1>Caladin Computers</h1>,<p>Caladin Computers is a fully owned subsidiary of the holding company Caladin-ITS, LLC. Caladin-ITS, LLC is a conglomerate of businesses specializing in management services.</p>,<p>All business in this subsidiary are currently suspended.</p>]]></description>
+            <link>https://thegrid.ai/caladins/caladin-computers/index.html</link>
+            <guid isPermaLink="false">e55895f5-26ec-446d-a0a1-51f3f7497540</guid>
+            <pubDate>Mon, 29 May 2017 04:34:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Caladin Real Estate]]></title>
+            <description><![CDATA[<h1>Caladin Real Estate</h1>,<p>Caladin Real Estate is a fully owned subsidiary of the holding company Caladin-ITS, LLC. Caladin-ITS, LLC is a conglomerate of businesses specializing in management services.</p>]]></description>
+            <link>https://thegrid.ai/caladins/caladin-real-estate/index.html</link>
+            <guid isPermaLink="false">df083ab6-0bda-4db9-a532-97df4df7941f</guid>
+            <pubDate>Mon, 29 May 2017 03:48:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Caladin Books]]></title>
+            <description><![CDATA[<h1>Caladin Books</h1>,<p>This site is under construction</p>]]></description>
+            <link>https://thegrid.ai/caladins/caladin-books/index.html</link>
+            <guid isPermaLink="false">b2ea8bfd-08ea-4a5b-8741-4dcbba50a674</guid>
+            <pubDate>Wed, 07 Jun 2017 02:48:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About Us]]></title>
+            <description><![CDATA[<h1>About Us</h1>,<h2>Caladin-ITS, LLC</h2>,<p>Caladin-ITS, LLC is a holding company for a variety of businesses providing management services to the small business market.</p>,<p>Caladin-ITS was founded in 1995 as Beta Computer Services. At the time of founding the business concentrated on providing hands-on technical assistance to home computer users. The range of computer services continued to expand as the demands of the market changed.</p>,<p>In 2010 Beta Computer Services became Caladin-ITS when it choose the expand its management expertise into areas outside of the computer industry, starting with property management. Caladin-ITS was formed as a holding company for the various businesses, each of which concentrates in a specific industry.</p>,<p>Later in 2010, the primary founder of Caladin-ITS, LLC was asked to join a larger firm. This resulted in the suspension of ongoing services by Caladin Computers. Caladin Real Estate continues to provide management services for rental properties. Caladin-ITS continues to also pursue creating new businesses.</p>,<p><a href="http://thegrid.ai/john-stone" title="John Stone">About John Stone</a></p>]]></description>
+            <link>https://thegrid.ai/caladins/about-us/index.html</link>
+            <guid isPermaLink="false">715b6c63-8eff-4bb5-a25e-f255ff037b70</guid>
+            <pubDate>Mon, 29 May 2017 04:38:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
