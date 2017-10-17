@@ -31,7 +31,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Real Estate
+  - name: Data
     id: e55895f5-26ec-446d-a0a1-51f3f7497540
     type: content
 favicon: null
