@@ -75,6 +75,3 @@ purpose:
   - type: contact
     url: 'tel:5412281302'
     label: Click to Call
-  - type: contact
-    url: 'tel:5412281302'
-    label: '5412281302'
