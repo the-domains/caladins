@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[CALADIN]]></title>
-        <description><![CDATA[CALADIN]]></description>
+        <title><![CDATA[CALADIN ITS, LLC]]></title>
+        <description><![CDATA[CALADIN ITS, LLC]]></description>
         <link>https://thegrid.ai/caladins/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 Oct 2017 15:52:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2017 23:20:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/caladins/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Oct 2017 15:51:48 GMT</pubDate>
+        <pubDate>Mon, 13 Nov 2017 23:20:42 GMT</pubDate>
         <item>
             <title><![CDATA[Caladin Data Management]]></title>
             <description><![CDATA[<h1>Caladin Data Management</h1>,<p>Caladin Data Management is a fully owned subsidiary of the holding company <br>Caladin-ITS, LLC, a conglomerate of businesses specializing in management services.</p>]]></description>
@@ -20,13 +20,6 @@
             <link>https://thegrid.ai/caladins/caladin-real-estate/index.html</link>
             <guid isPermaLink="false">df083ab6-0bda-4db9-a532-97df4df7941f</guid>
             <pubDate>Mon, 29 May 2017 03:48:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Caladin Books]]></title>
-            <description><![CDATA[<h1>Caladin Books</h1>,<p>This site is under construction</p>]]></description>
-            <link>https://thegrid.ai/caladins/caladin-books/index.html</link>
-            <guid isPermaLink="false">b2ea8bfd-08ea-4a5b-8741-4dcbba50a674</guid>
-            <pubDate>Wed, 07 Jun 2017 02:48:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[About Us]]></title>
