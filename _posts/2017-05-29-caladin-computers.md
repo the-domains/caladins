@@ -3,9 +3,9 @@ inFeed: true
 description: >-
   Caladin Information Technology Services is the primary business of Caladin
   ITS, LLC.
-dateModified: '2017-11-13T23:30:42.924Z'
-datePublished: '2017-11-13T23:30:43.496Z'
-title: Caladin Information Technology Services
+dateModified: '2017-11-13T23:40:14.187Z'
+datePublished: '2017-11-13T23:40:14.810Z'
+title: Caladin IT Services
 author: []
 publisher: {}
 via: {}
@@ -17,13 +17,13 @@ url: caladin-computers/index.html
 _type: Article
 
 ---
-# Caladin Information Technology Services
+# Caladin IT Services
 
 Caladin Information Technology Services is the primary business of Caladin ITS, LLC.
 
 ---
 
-Caladin Information Technology Services has various practices that specialize in filling the gap needs of businesses. We recognize that most businesses today have some level of technology knowledge and that our role is to work with our customers to design solutions that make their businesses easier to run so they can spend more time generating revenue.
+Caladin IT Services has various practices that specialize in filling the gap needs of businesses. We recognize that most businesses today have some level of technology knowledge and that our role is to work with our customers to design solutions that make their businesses easier to run so they can spend more time generating revenue.
 
 ## **Information Technology Practice**
 
