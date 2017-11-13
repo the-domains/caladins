@@ -4,9 +4,9 @@ description: >-
   Caladin Data Management is a fully owned subsidiary of the holding company
   Caladin-ITS, LLC, a conglomerate of businesses specializing in management
   services.
-dateModified: '2017-10-17T15:47:06.878Z'
-datePublished: '2017-10-17T15:47:07.390Z'
-title: Caladin Data Management
+dateModified: '2017-11-13T23:22:27.988Z'
+datePublished: '2017-11-13T23:22:28.442Z'
+title: Caladin Information Technology Services
 author: []
 publisher: {}
 via: {}
@@ -18,7 +18,7 @@ url: caladin-computers/index.html
 _type: Article
 
 ---
-# Caladin Data Management
+# Caladin Information Technology Services
 
 Caladin Data Management is a fully owned subsidiary of the holding company   
 Caladin-ITS, LLC, a conglomerate of businesses specializing in management services.
