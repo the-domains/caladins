@@ -70,7 +70,7 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: 'Information on the Caladin ITS, LLC businesses'
+description: Information Technology Services
 purpose:
   - type: contact
     url: 'tel:5412281302'
