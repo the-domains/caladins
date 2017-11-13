@@ -39,7 +39,7 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/53b4c685-e961-423b-bf11-ca66f342fae9.png
-title: 'CALADIN ITS, LLC'
+title: 'CALADIN  ITS, LLC'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
