@@ -75,3 +75,6 @@ purpose:
   - type: contact
     url: 'tel:5412281302'
     label: 'Give me a call at:'
+  - type: contact
+    url: 'tel:5412281302'
+    label: '5412281302'
