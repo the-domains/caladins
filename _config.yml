@@ -74,7 +74,7 @@ description: 'Information on the Caladin ITS, LLC businesses'
 purpose:
   - type: contact
     url: 'tel:5412281302'
-    label: 'Give me a call at:'
+    label: Click to Call
   - type: contact
     url: 'tel:5412281302'
     label: '5412281302'
