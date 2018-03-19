@@ -25,7 +25,7 @@ author:
   email: jstone63@hotmail.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/761704ad-c714-435b-b2b7-3dfe3b6d0210.png
-name: Caladins
+name: ' '
 cta:
   domain: null
   bucket: null
@@ -70,5 +70,8 @@ purpose:
   - type: contact
     url: 'tel:5412281302'
     label: Click to Call
+  - type: external
+    url: 'https://calendly.com/jstone63'
+    label: Meeting
 content_rating:
   adult: false
