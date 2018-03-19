@@ -72,6 +72,6 @@ purpose:
     label: Click to Call
   - type: external
     url: 'https://calendly.com/jstone63'
-    label: Meeting
+    label: Click to setup Meeting
 content_rating:
   adult: false
